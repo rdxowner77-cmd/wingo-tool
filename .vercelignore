@@ -1,0 +1,4 @@
+wingologic_source_bundle/
+node_modules/
+.cache/
+*.log

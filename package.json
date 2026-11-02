@@ -1,0 +1,20 @@
+{
+  "name": "wingo-tool",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "WINGO TOOL - AI Probability Analytics & Live Prediction Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "wingo",
+    "wingo-tool",
+    "wingo-prediction",
+    "wingologic",
+    "analytics"
+  ],
+  "author": "WINGO TOOL Team",
+  "license": "ISC"
+}

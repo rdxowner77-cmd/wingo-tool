@@ -1,0 +1,8 @@
+pkg update -y
+pkg upgrade -y
+pkg install nodejs-lts unzip -y
+termux-setup-storage
+cd ~/storage/shared/Download
+unzip -o kal-update-krle.zip -d ~/wingologic
+cd ~/wingologic
+node server.js
